@@ -24,8 +24,8 @@ Welcome to our InfoView project, developed using the MERN stack. This project ai
 ## **Tech Stack**
 
 - **Frontend**:
-  - React.js
-  - Redux (for state management)
+  - Vue.js
+  - Pinia (for state management)
   - Axios (for API calls)
   - Tailwind CSS / Material-UI (for styling)
 
