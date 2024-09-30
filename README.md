@@ -30,7 +30,7 @@ Welcome to our InfoView project, developed using the MERN stack. This project ai
   - Tailwind CSS / Material-UI (for styling)
 
 - **Backend**:
-  - Node.js
+  - Node.js with TypeScript
   - Express.js
   - MongoDB (Mongoose for ORM)
   - JWT (JSON Web Tokens for authentication)
