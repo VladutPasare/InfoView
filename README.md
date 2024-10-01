@@ -1,6 +1,6 @@
 # **InfoView**
 
-Welcome to our InfoView project, developed using the MERN stack. This project aims to create a platform where users can solve coding problems, prepare for interviews, and improve their coding skills.
+Welcome to InfoView, this project aims to create a platform where users can solve coding problems, prepare for interviews, and improve their coding skills.
 
 ## **Table of Contents**
 
